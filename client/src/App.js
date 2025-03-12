@@ -17,7 +17,9 @@ function App() {
     <div>
       <div>App</div>
       {console.log("test", backendData)}
+      <div>App</div>
     </div>
+    
   )
 }
 
